@@ -1,0 +1,177 @@
+1. Evaluate a Polynomial:
+Write a program that calculates and displays the value of the polynomial 3x³ - 5x² + 6 for x = 2.5.
+
+2. Average of Five Numbers:
+Write a program that calculates and displays the average of the numbers 15, 22, 18, 30, and 21.
+
+3. Rectangle Properties (Different Values):
+Write a program that displays the area and perimeter of a rectangle with a width of 8.2 and a height of 12.5. Use the formulas:
+area = width * height
+perimeter = 2 * (width + height)
+
+4. Temperature Conversion (Fahrenheit to Celsius):
+Write a program that converts 98.6 degrees Fahrenheit to Celsius and displays the result. Use the formula:
+Celsius = (5 / 9) * (Fahrenheit - 32)
+
+5. Simple Interest Calculation:
+Write a program to calculate the simple interest earned on a principal amount of $1500 at an annual interest rate of 3.5% over a period of 5 years. Display the calculated interest. Use the formula:
+Interest = Principal * Rate * Time (where Rate is expressed as a decimal, e.g., 3.5% = 0.035).
+
+6. Volume of a Cylinder:
+Write a program that calculates and displays the volume of a cylinder with a radius of 3.0 and a height of 7.5. Import the math module to use math.pi. Use the formula:
+Volume = π * radius² * height
+
+7. Time Conversion:
+Write a program that converts 10,000 seconds into hours, minutes, and remaining seconds. Display the result in the format "H hours, M minutes, and S seconds". Use the // (integer division) and % (modulo) operators.
+Hint: First find total minutes and remaining seconds. Then find total hours and remaining minutes from the total minutes.
+
+8. Distance Calculation (Constant Speed):
+Write a program that calculates the distance traveled by a car moving at a constant speed of 65 miles per hour for 3.5 hours. Display the total distance. Use the formula:
+Distance = Speed * Time
+
+9. Sum of Squares:
+Write a program that calculates and displays the sum of the squares of the first three positive integers (1, 2, 3). That is, calculate 1² + 2² + 3².
+
+10. Currency Conversion:
+Write a program that converts 500 US Dollars (USD) to Euros (EUR), assuming an exchange rate of 1 USD = 0.92 EUR. Display the resulting amount in Euros.
+
+11. Area of a Triangle:
+Write a program that calculates and displays the area of a triangle with a base of 10.5 and a height of 6.8. Use the formula:
+Area = 0.5 * base * height
+
+12. Volume of a Cube:
+Write a program that calculates and displays the volume of a cube with a side length of 4.2. Use the formula:
+Volume = side * side * side (or side ** 3)
+
+13. Speed Conversion (m/s to km/h):
+Write a program that converts a speed of 25 meters per second (m/s) to kilometers per hour (km/h) and displays the result. Note that 1 km = 1000 m and 1 hour = 3600 s. The conversion factor is km/h = m/s * 3.6.
+
+14. Density Calculation:
+Write a program that calculates and displays the density of a substance with a mass of 500 kilograms and a volume of 0.5 cubic meters. Use the formula:
+Density = Mass / Volume
+
+15. Sale Discount:
+Write a program that calculates the final price of an item originally costing $120 after a 15% discount. Display the final price. Use the formula:
+Final Price = Original Price * (1 - Discount Rate) (where Discount Rate is a decimal, e.g., 15% = 0.15).
+
+16. Sum of Cubes:
+Write a program that calculates and displays the sum of the cubes of the first three positive integers (1, 2, 3). That is, calculate 1³ + 2³ + 3³.
+
+17. Two-Digit Number Reversal:
+Assume you have the number 73 stored in a variable. Write a program that calculates and displays the number with its digits reversed (which would be 37). Use the // (integer division) and % (modulo) operators to extract the digits.
+
+18. Solving ax = b:
+Write a program that solves the simple linear equation ax = b for x. Assume a = 2.5 and b = 10.0. Display the value of x. (Ensure a is not zero). Formula: x = b / a.
+
+19. Weighted Average:
+A student receives a score of 85 on a midterm exam weighted at 40% and a score of 95 on a final exam weighted at 60%. Write a program to calculate and display the student's final weighted average score. Formula: Average = (score1 * weight1) + (score2 * weight2).
+
+20. Body Mass Index (BMI) Calculation:
+Write a program that calculates and displays the Body Mass Index (BMI) for a person with a weight of 70 kilograms and a height of 1.75 meters. Use the formula:
+BMI = Weight / (Height * Height)
+
+21. Surface Area of a Cylinder:
+Write a program that calculates and displays the total surface area of a cylinder with a radius of 4.0 and a height of 10.0. Import the math module. Use the formula:
+Surface Area = (2 * π * radius * height) + (2 * π * radius²)
+
+22. Kinetic Energy:
+Write a program that calculates and displays the kinetic energy of an object with a mass of 50 kilograms moving at a velocity of 15 meters per second. Use the formula:
+Kinetic Energy = 0.5 * mass * velocity²
+
+23. Gravitational Potential Energy:
+Write a program that calculates and displays the gravitational potential energy of an object with a mass of 20 kilograms raised to a height of 30 meters. Assume the acceleration due to gravity (g) is 9.8 m/s². Use the formula:
+Potential Energy = mass * g * height
+
+24. Force Calculation (Newton's Second Law):
+Write a program that calculates and displays the force required to accelerate an object with a mass of 100 kilograms at a rate of 2.5 meters per second squared. Use the formula:
+Force = mass * acceleration
+
+25. Ohm's Law (Voltage):
+Write a program that calculates and displays the voltage across a circuit with a current of 0.5 amperes and a resistance of 220 ohms. Use the formula:
+Voltage = Current * Resistance
+
+26. Average of Three Test Scores:
+Write a program that calculates and displays the average of three test scores: 75, 88, and 91.
+
+27. Sum and Product of Three Numbers:
+Write a program that calculates and displays both the sum and the product of the numbers 5, 12, and 7.
+
+28. Percentage Calculation:
+Write a program that calculates what percentage 45 is of 150. Display the result followed by a '%' sign. Use the formula:
+Percentage = (part / whole) * 100
+
+29. Remaining Money:
+You start with $200. You spend $45.50 on groceries and $12.75 on coffee. Write a program to calculate and display the amount of money you have remaining.
+
+30. Area of a Trapezoid:
+Write a program that calculates and displays the area of a trapezoid with parallel bases of length 10.0 and 15.0, and a height of 8.0. Use the formula:
+Area = 0.5 * (base1 + base2) * height
+
+31. Sum of Interior Angles of a Polygon:
+Write a program that calculates and displays the sum of the interior angles of a polygon with 7 sides. Use the formula:
+Sum of angles = (n - 2) * 180 (where n is the number of sides).
+
+32. Volume of a Sphere:
+Write a program that calculates and displays the volume of a sphere with a radius of 6.0. Import the math module for math.pi. Use the formula:
+Volume = (4 / 3) * π * radius³
+
+33. Surface Area of a Sphere:
+Write a program that calculates and displays the surface area of a sphere with a radius of 6.0. Import the math module for math.pi. Use the formula:
+Surface Area = 4 * π * radius²
+
+34. Slope of a Line:
+Write a program that calculates and displays the slope of the line connecting the points (2, 5) and (6, 13). Use the formula:
+Slope = (y2 - y1) / (x2 - x1)
+
+35. Midpoint of a Line Segment:
+Write a program that calculates and displays the coordinates of the midpoint of the line segment connecting the points (2, 5) and (6, 13). Use the formulas:
+Midpoint x = (x1 + x2) / 2
+Midpoint y = (y1 + y2) / 2
+
+36. Gallons to Liters Conversion:
+Write a program that converts 15 gallons to liters and displays the result. Assume 1 gallon = 3.7854 liters.
+
+37. Total Cost Calculation:
+You buy 5 items that cost $12.50 each. Write a program to calculate and display the total cost.
+
+39. Power Calculation:
+Write a program that calculates and displays the value of 2 raised to the power of 10 (i.e., 2¹⁰).
+
+39. Evaluate Another Polynomial:
+Write a program that calculates and displays the value of the polynomial y = x⁴ + 2x² - 5x + 1 for x = 1.5.
+
+40. Compound Interest (Simplified - 1 Year):
+Write a program to calculate the final balance after one year if you start with a principal amount of $1000 at an annual interest rate of 5% compounded annually. Display the final balance. Use the formula:
+Balance = Principal * (1 + Rate) (where Rate is expressed as a decimal, e.g., 5% = 0.05).
+
+41. Area of a Regular Hexagon:
+Write a program that calculates and displays the area of a regular hexagon with a side length of 5.0. Import the math module for math.sqrt. Use the formula:
+Area = (3 * √3 / 2) * side²
+
+42. Circumference using Diameter:
+Write a program that calculates and displays the circumference of a circle given its diameter is 10.0. Import the math module for math.pi. Use the formula:
+Circumference = π * diameter
+
+43. Inches to Centimeters Conversion:
+Write a program that converts 20 inches to centimeters and displays the result. Assume 1 inch = 2.54 centimeters.
+
+44. Kilograms to Pounds Conversion:
+Write a program that converts 75 kilograms to pounds and displays the result. Assume 1 kilogram = 2.20462 pounds.
+
+45. Integer Division and Remainder:
+Write a program that divides 125 by 8. Display both the integer quotient (using //) and the remainder (using %) on separate lines.
+
+46. Average Speed (m/s):
+Write a program to calculate the average speed in meters per second (m/s) if a car travels 5 kilometers in 10 minutes. Display the result. (Remember to convert km to m and minutes to seconds).
+
+47. Unit Cost:
+A package containing 12 identical items costs $18.60. Write a program to calculate and display the cost of a single item.
+
+48. Square Root Approximation (One Step):
+Using the Babylonian method, the next guess for the square root of a number N, given a current guess G, is calculated as 0.5 * (G + N / G). Write a program that calculates the next guess for the square root of 25, starting with an initial guess G = 3. Display this next guess.
+
+49. Difference of Squares:
+Write a program that calculates and displays the difference between the square of 15 and the square of 12 (i.e., 15² - 12²).
+
+50. Sum of an Arithmetic Series (First 5 terms):
+Write a program that calculates and displays the sum of the first 5 terms of an arithmetic series starting at 3 with a common difference of 4. The terms are 3, 7, 11, 15, 19. Calculate 3 + 7 + 11 + 15 + 19.
